@@ -43,9 +43,9 @@
 
   <br/>
 
-  [![Hyeong Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-1130)](https://github.com/anuraghazra/github-readme-stats)
+#  [![Hyeong Ju's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJ-1130)](https://github.com/anuraghazra/github-readme-stats)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-1130&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+#  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJ-1130&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
